@@ -1,17 +1,4 @@
-##### NAIT
-
-```
-Edmonton, Alberta
-```
-```
-RC Black Box TPS Report
-```
-
-```
-Michal Szmaj
-```
-##### 05/04/
-
+Michal Szmaj Computer Engineering Capstone
 
 ## Table of Contents
 
